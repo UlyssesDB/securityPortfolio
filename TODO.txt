@@ -1,0 +1,4 @@
+
+1. retrieve forum posts for each of the 8 courses and record them
+2. 
+
