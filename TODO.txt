@@ -2,4 +2,5 @@
 1. retrieve forum posts for each of the 8 courses and record them
 2. clean up professional statement
 3. download all useful course reading material for reference
+4. add course/qualifications to linkdin
 
